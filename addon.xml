@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.hideosd" version="1.0.0" name="Hide Video OSD" provider-name="Kevwag">
+<addon id="script.hideosd" version="1.0.1" name="Hide Video OSD" provider-name="Kevwag">
 	<requires>
 		<import addon="xbmc.python" version="3.00.0" />
 	</requires>
@@ -13,12 +13,14 @@
 		<platform>all</platform>
 		<license>GPL-3.0-only</license>
 		<forum>-</forum>
-		<website>https://github.com/Kevwag-Kodi-Addons/script.hideosd</website>
-		<source>https://github.com/Kevwag-Kodi-Addons/script.hideosd</source>
+		<website>https://github.com/jevwag/script.hideosd</website>
+		<source>https://github.com/jevwag/script.hideosd.git</source>
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
 		<news>
+v1.0.1
+-Fix repo source URLs
 v1.0.0
 -Rebuilt for Kodi 20.x (Nexus)
 		</news>
